@@ -26,7 +26,7 @@ export default function MatchCard({ match }: { match: Match | null }) {
       <div className="text-base font-medium text-left w-full text-gray-200">
         {venue}
       </div>
-      <div className="text-base font-bold uppercase  tracking-wide text-center text-[#e0e0e0] mt-2 letter-spacing-wider">
+      <div className="text-base font-bold uppercase  tracking-wide text-center text-blue-700 mt-2 letter-spacing-wider">
         {status ? status : "UPCOMING"}
       </div>
     </div>

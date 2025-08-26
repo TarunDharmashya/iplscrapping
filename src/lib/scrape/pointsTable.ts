@@ -1,9 +1,14 @@
-import puppeteer from "puppeteer";
+import chromium from "chrome-aws-lambda";
+import puppeteer from "puppeteer-core";
 import staticPointsTable from "./Static/pointsTable.json";
 
 export async function scrapePoints() {
   try {
-    const browser = await puppeteer.launch({ headless: true, args: ["--no-sandbox"] });
+    const browser = await puppeteer.launch({
+      args: chromium.args,
+      executablePath: await chromium.executablePath,
+      headless: chromium.headless,
+    });
     const page = await browser.newPage();
 
     let pointsData: any = null;
@@ -17,7 +22,7 @@ export async function scrapePoints() {
             pointsData = data.pointsTableData;
           }
         }
-      } catch { 
+      } catch {
         // ignore JSON parse errors
       }
     });
