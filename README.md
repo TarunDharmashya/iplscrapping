@@ -24,8 +24,6 @@ An IPL dashboard built with Next.js, TypeScript, Tailwind CSS, and Puppeteer for
 
 ## Getting Started
 
-## Getting Started
-
 First, run the development server:
 
 ```bash
