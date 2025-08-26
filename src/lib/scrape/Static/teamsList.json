@@ -1,0 +1,42 @@
+[
+  {
+    "team": "CSK",
+    "teamName": "Chennai Super Kings"
+  },
+  {
+    "team": "DC",
+    "teamName": "Delhi Capitals"
+  },
+  {
+    "team": "GT",
+    "teamName": "Gujarat Titans"
+  },
+  {
+    "team": "KKR",
+    "teamName": "Kolkata Knight Riders"
+  },
+  {
+    "team": "LSG",
+    "teamName": "Lucknow Super Giants"
+  },
+  {
+    "team": "MI",
+    "teamName": "Mumbai Indians"
+  },
+  {
+    "team": "PBKS",
+    "teamName": "Punjab Kings"
+  },
+  {
+    "team": "RR",
+    "teamName": "Rajasthan Royals"
+  },
+  {
+    "team": "RCB",
+    "teamName": "Royal Challengers Bengaluru"
+  },
+  {
+    "team": "SRH",
+    "teamName": "Sunrisers Hyderabad"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "matchId": "1",
+    "team1": "DC",
+    "team1Name": "Delhi Capitals",
+    "team2": "PBKS",
+    "team2Name": "Punjab Kings",
+    "date": "August 30, 2025",
+    "time": "1:00 PM IST",
+    "venue": "Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "matchId": "2",
+    "team1": "PBKS",
+    "team1Name": "Punjab Kings",
+    "team2": "MI",
+    "team2Name": "Mumbai Indians",
+    "date": "August 30, 2025",
+    "time": "7:30 PM IST",
+    "venue": "Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "matchId": "3",
+    "team1": "GT",
+    "team1Name": "Gujarat Titans",
+    "team2": "MI",
+    "team2Name": "Mumbai Indians",
+    "date": "August 31, 2025",
+    "time": "7:30 PM IST",
+    "venue": "New PCA Stadium, Chandigarh"
+  }
+]

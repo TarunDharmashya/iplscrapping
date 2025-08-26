@@ -1,0 +1,102 @@
+[
+  {
+    "matchId": "MATCH2025-101",
+    "team1": "CSK",
+    "team1Name": "Chennai Super Kings",
+    "team2": "MI",
+    "team2Name": "Mumbai Indians",
+    "date": "September 2, 2025",
+    "time": "7:30 PM IST",
+    "venue": "Wankhede Stadium, Mumbai"
+  },
+  {
+    "matchId": "MATCH2025-102",
+    "team1": "RCB",
+    "team1Name": "Royal Challengers Bengaluru",
+    "team2": "GT",
+    "team2Name": "Gujarat Titans",
+    "date": "September 4, 2025",
+    "time": "1:00 PM IST",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "matchId": "MATCH2025-103",
+    "team1": "KKR",
+    "team1Name": "Kolkata Knight Riders",
+    "team2": "SRH",
+    "team2Name": "Sunrisers Hyderabad",
+    "date": "September 7, 2025",
+    "time": "7:30 PM IST",
+    "venue": "Eden Gardens, Kolkata"
+  },
+  {
+    "matchId": "MATCH2025-104",
+    "team1": "PBKS",
+    "team1Name": "Punjab Kings",
+    "team2": "RR",
+    "team2Name": "Rajasthan Royals",
+    "date": "September 10, 2025",
+    "time": "1:00 PM IST",
+    "venue": "New PCA Stadium, Chandigarh"
+  },
+  {
+    "matchId": "MATCH2025-105",
+    "team1": "LSG",
+    "team1Name": "Lucknow Super Giants",
+    "team2": "DC",
+    "team2Name": "Delhi Capitals",
+    "date": "September 10, 2025",
+    "time": "7:30 PM IST",
+    "venue": "BRSABV Ekana Cricket Stadium, Lucknow"
+  },
+  {
+    "matchId": "MATCH2025-106",
+    "team1": "MI",
+    "team1Name": "Mumbai Indians",
+    "team2": "SRH",
+    "team2Name": "Sunrisers Hyderabad",
+    "date": "September 15, 2025",
+    "time": "1:00 PM IST",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+  },
+  {
+    "matchId": "MATCH2025-107",
+    "team1": "RCB",
+    "team1Name": "Royal Challengers Bengaluru",
+    "team2": "KKR",
+    "team2Name": "Kolkata Knight Riders",
+    "date": "September 18, 2025",
+    "time": "7:30 PM IST",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru"
+  },
+  {
+    "matchId": "MATCH2025-108",
+    "team1": "GT",
+    "team1Name": "Gujarat Titans",
+    "team2": "CSK",
+    "team2Name": "Chennai Super Kings",
+    "date": "September 21, 2025",
+    "time": "1:00 PM IST",
+    "venue": "Narendra Modi Stadium, Ahmedabad"
+  },
+  {
+    "matchId": "MATCH2025-109",
+    "team1": "RR",
+    "team1Name": "Rajasthan Royals",
+    "team2": "LSG",
+    "team2Name": "Lucknow Super Giants",
+    "date": "September 21, 2025",
+    "time": "7:30 PM IST",
+    "venue": "Sawai Mansingh Stadium, Jaipur"
+  },
+  {
+    "matchId": "MATCH2025-110",
+    "team1": "DC",
+    "team1Name": "Delhi Capitals",
+    "team2": "PBKS",
+    "team2Name": "Punjab Kings",
+    "date": "September 22, 2025",
+    "time": "1:00 PM IST",
+    "venue": "Arun Jaitley Stadium, Delhi"
+  }
+]
